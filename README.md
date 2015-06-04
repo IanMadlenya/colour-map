@@ -1,5 +1,7 @@
 # Map colouring
-Quick-and-dirty code to visualize quantitative data on a map using colors for regions: Countries in the world or states in the US as done in [zeean](http://zeean.net/visualization) using [D3js](http://d3js.org). Map shapes from [GADM](http://gadm.org).
+Quick-and-dirty code to visualize quantitative data on a map using colors for regions: **Countries in the world** or **states in the US** as done on [zeean](http://zeean.net/visualization).
+
+Uses [D3js](http://d3js.org). Map shapes from [GADM](http://gadm.org).
 
 For example used in:
 
